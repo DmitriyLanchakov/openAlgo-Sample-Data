@@ -1,0 +1,6 @@
+% This file is loaded by Matlab to define various contract specific properties
+% bigPoint is a Full Point move (e.g. 1 = $375 in KC, 1 = $50 in ES)
+% minTick is the minimum tick fluctuation (e.g. .05 in KC, .25 in ES)
+%
+bigPoint,minTick
+50,.25
